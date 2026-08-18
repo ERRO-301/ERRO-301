@@ -1,6 +1,6 @@
 # 🧑‍💻 ERRO 301
 
-Sou um estudante a desenvolvedor (se é que esse termo existe) interessado em programação, modificação de jogos, automação e criação de projetos experimentais.
+Sou um estudante a dev (se é que esse termo existe) interessado em programação, modificação de jogos, automação e criação de projetos experimentais.
 Atualmente estou estudando **Java, JavaScript e Python**, e quero utilizar essas linguagens para transformar ideias em projetos, ferramentas, mods e sistemas.
 
 Meu GitHub funciona como um pequeno **laboratório do caos**.
